@@ -5,6 +5,9 @@ install: bundle
 script:
 - rake test
 - rake build
+addons:
+  code_climate:
+    repo_token: d5ffe90bcaafc4c04eaee0894e64e8d1ef8a3e50401f81acf5d4bf76a9d721e4
 deploy:
   provider: rubygems
   gem: hoverfly-api

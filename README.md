@@ -2,7 +2,10 @@
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/hoverfly/api`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+[![Build Status](https://travis-ci.org/nicholasjackson/hoverfly-api.svg?branch=master)](https://travis-ci.org/nicholasjackson/hoverfly-api)  
+[![Code Climate](https://codeclimate.com/github/nicholasjackson/hoverfly-api/badges/gpa.svg)](https://codeclimate.com/github/nicholasjackson/hoverfly-api)  
+[![Test Coverage](https://codeclimate.com/github/nicholasjackson/hoverfly-api/badges/coverage.svg)](https://codeclimate.com/github/nicholasjackson/hoverfly-api/coverage)  
+[![Issue Count](https://codeclimate.com/github/nicholasjackson/hoverfly-api/badges/issue_count.svg)](https://codeclimate.com/github/nicholasjackson/hoverfly-api)
 
 ## Installation
 
@@ -38,4 +41,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
